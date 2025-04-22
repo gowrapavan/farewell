@@ -118,7 +118,7 @@ const MemorySlide: React.FC<MemorySlideProps> = ({ memory, index, isMuted, onTog
         transition={{ duration: 0.5, delay: 0.7 }}
       >
         <div className="text-white/70 text-sm font-light">
-          Scroll down for more memories
+          Scroll down for next message
         </div>
       </motion.div>
 
