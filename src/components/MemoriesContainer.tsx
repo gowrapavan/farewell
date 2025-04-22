@@ -151,7 +151,7 @@ const MemoriesContainer: React.FC<MemoriesContainerProps> = ({ memories }) => {
             animate={{ opacity: loaded ? 1 : 0, y: loaded ? 0 : 20 }}
             transition={{ duration: 0.7, delay: 1.2 }}
           >
-            <p className="text-white/70">Scroll down for message</p>
+            <p className="text-white/70">Scroll down to explore</p>
             <motion.div 
               className="mt-4 animate-bounce"
               animate={{ y: [0, 10, 0] }}
@@ -204,7 +204,7 @@ const MemoriesContainer: React.FC<MemoriesContainerProps> = ({ memories }) => {
           </p>
           <div className="mt-8 flex justify-center">
             <Sparkles size={32} className="text-yellow-300 mr-2" />
-            <span className="text-lg font-light">Batch of 2021 - 2025</span>
+            <span className="text-lg font-light">Class of 2022</span>
             <Sparkles size={32} className="text-yellow-300 ml-2" />
           </div>
         </motion.div>
