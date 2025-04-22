@@ -22,7 +22,7 @@ export const memoryQuotes: MemoryQuote[] = [
     rollno: "218X1A1203",
     name: "Badugu Renuka",
     quote: "A rare combo, gentle soul, with beautiful heart\nShe Shines softly with a quiet strength, as a peaceful light,\nA light that touches, day and night.",
-    image: "/public/images/3.jpg",
+    image: "/images/3.jpg",
   },
   {
     rollno: "218X1A1204",
