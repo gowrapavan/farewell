@@ -1,0 +1,29 @@
+# Automatically normalize line endings
+* text=auto
+
+# Force LF for code files (recommended across platforms)
+*.js text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.md text eol=lf
+
+# Treat image and binary files correctly
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+*.ico binary
+*.mp4 binary
+
+# Fonts and other assets
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.eot binary
+
+# Avoid diff on lock files (optional but recommended)
+package-lock.json merge=union
