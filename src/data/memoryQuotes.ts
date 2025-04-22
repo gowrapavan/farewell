@@ -2,13 +2,13 @@ import { MemoryQuote } from '../types';
 
 export const memoryQuotes: MemoryQuote[] = [
   {
-    rollno: "L1",
+    rollno: "208X1A1231",
     name: "Punati Anil Kumar",
     quote: "Tiny package, big personality,\nA fun-loving soul, with humor's energy.\nHe cracks jokes sharp, with a grin so wide,\nA small frame, but laughter won't subside.",
     image: "/images/anil.jpg",
   },
   {
-    rollno: "L2",
+    rollno: "208X1A1263",
     name: "Shaik Balaji",
     quote: "He wears silence well, like a stylish guise,\nBut beneath the surface, a fun guy surprise.\nHis fashion's on point, his laughter so free,\nA quiet rebel, with a style all his own, you see.",
     image: "/images/balaji.jpg",
@@ -318,25 +318,25 @@ export const memoryQuotes: MemoryQuote[] = [
       image: "/images/ashok.jpg",
   },
   {
-      rollno: "L3",
+      rollno: "228X5A1202",
       name: "Korlapati Venkata Divya Sai Babu",
       quote: "A stoic face, with a heart so bright,\nKindness hides, behind a serious sight.\nSoft and gentle, beneath the surface deep,\nA loving soul, in quiet sleep.",
       image: "/images/sai_babu.jpg",
   },
   {
-      rollno: "L4",
+      rollno: "228X5A1203",
       name: "Bandaru Kesava Ram",
       quote: "A brilliant mind, with a youthful zest,\nIntelligence shines, and humor's at its best.\nKindness and charm, in every stride,\nA captivating soul, gladdens with pride.",
       image: "/images/kesava_ram.jpg",
   },
   {
-      rollno: "L5",
+      rollno: "228X5A1204",
       name: "Nakkala Chaitanya Krishna",
       quote: "Good looks, with a style so rare,\nFashion icon, beyond compare.\nConfidence shines, in every stride,\nA model's charm, glides with pride.",
       image: "/images/chaitanya_krishna.jpg",
   },
   {
-      rollno: "L6",
+      rollno: "228X5A1205",
       name: "Raghukula Mohana Sai Krishna",
       quote: "Stands alone, a quiet soul,\nHis introverted heart, a mystery whole.\nBut when he dresses, style takes the floor,\nA handsome man, with an understated roar",
       image: "/images/mohan_sai_krishna.jpg",
