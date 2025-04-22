@@ -2,13 +2,13 @@ import { MemoryQuote } from '../types';
 
 export const memoryQuotes: MemoryQuote[] = [
   {
-    rollno: "208X1A1231",
+    rollno: "L1",
     name: "Punati Anil Kumar",
     quote: "Tiny package, big personality,\nA fun-loving soul, with humor's energy.\nHe cracks jokes sharp, with a grin so wide,\nA small frame, but laughter won't subside.",
     image: "/images/anil.jpg",
   },
   {
-    rollno: "208X1A1263",
+    rollno: "L2",
     name: "Shaik Balaji",
     quote: "He wears silence well, like a stylish guise,\nBut beneath the surface, a fun guy surprise.\nHis fashion's on point, his laughter so free,\nA quiet rebel, with a style all his own, you see.",
     image: "/images/balaji.jpg",
@@ -226,7 +226,61 @@ export const memoryQuotes: MemoryQuote[] = [
     name: "Talari Srihari",
     quote: "A rock-solid friend, with loyalty so true,\nA trusted companion, through and through.\nHe stands by your side, through thick and thin,\nA constant presence, who always cares within.",
     image: "/images/srihari.jpg"
-  }, 
+  },
+  {
+    rollno: "218X1A1241",
+    name: "Thanniru Kanaka Purna Chandra Rao",
+    quote: "A dual persona, with two sides to show,\nSavage and silly, with those he knows.\nTo others, he's quiet, a mysterious face,\nBut with close ones, he's a goofy, lovable ace.",
+    image: "/images/purna.jpg",
+  },
+  {
+    rollno: "218X1A1242",
+    name: "Vaka Venkata Sai Manasa",
+    quote: "Tiny but mighty, with charm so bright,\nDitziness is adorable, in her own sweet light.\nShe draws people in, with her quirky style,\nA lovable airhead, with a heart that's worthwhile.",
+    image: "/images/manasa.jpg",
+  },
+  {
+    rollno: "218X1A1243",
+    name: "Vanukuri Manideepa",
+    quote: "A quiet intellect, with a sisterly vibe,\nIntelligence shines, in her thoughtful guise.\nHer reserved nature, belies a sharp mind,\nA loyal sibling, with wisdom left behind.",
+    image: "/images/mani.jpg",
+  },
+  {
+    rollno: "218X1A1244",
+    name: "Chandu Jathin Naga Surya",
+    quote: "A cool cat, with a vibe so fresh,\nHe matches the energy, with a wild finesse.\nTrendy and fun, with a crazy flair,\nHe's the life of the party, beyond compare.",
+    image: "/images/jathin.jpg",
+  },
+  {
+    rollno: "218X1A1245",
+    name: "Chinthareddy Vishnu Kanth Reddy",
+    quote: "A wandering dreamer, with a heart so bright,\nUncertain of the path, but living in the light.\nHe savors each moment, with joy and with glee,\nA carefree spirit, wild and free.",
+    image: "/images/vishnu.jpg",
+  },
+  {
+    rollno: "218X1A1246",
+    name: "Malempati Naga Rajitha",
+    quote: "A tough exterior, with a silent face,\nBut with close ones, she's bubbly, in a playful place.\nA secret memer, with humor so bright,\nTough and tender, a delightful sight.",
+    image: "/images/ranjitha.jpg",
+  },
+  {
+    rollno: "218X1A1247",
+    name: "Sirigiri Chidvilash Chowdary",
+    quote: "A gentle giant, with a heart of gold,\nA brotherly figure, warm and kind to hold.\nLike a teddy bear, big and soft and sweet,\nA comforting presence, that can't be beat.",
+    image: "/images/chidvilash.jpg",
+  },
+  {
+    rollno: "218X1A1248",
+    name: "Alla Sai Pavan",
+    quote: "A lovable goof, with a silly grin,\nSlap-happy humor, but trustworthy within.\nHis goofy voice, brings laughter and cheer,\nA loyal friend, who's always near.",
+    image: "/images/sai.jpg",
+  },
+  {
+    rollno: "218X1A1249",
+    name: "Bhuvanagiri Yoga Priya",
+    quote: "A gentle soul, with a heart so pure,\nOrthodox values, with love that's sure.\nSweet and kind, with a lovely face,\nA beautiful spirit, in a lovely place.",
+    image: "/images/priya.jpg",
+  },
   {
     rollno: "218X1A1250",
     name: "Danaboina Vamsi Krishna",
@@ -318,25 +372,25 @@ export const memoryQuotes: MemoryQuote[] = [
       image: "/images/ashok.jpg",
   },
   {
-      rollno: "228X5A1202",
+      rollno: "L3",
       name: "Korlapati Venkata Divya Sai Babu",
       quote: "A stoic face, with a heart so bright,\nKindness hides, behind a serious sight.\nSoft and gentle, beneath the surface deep,\nA loving soul, in quiet sleep.",
       image: "/images/sai_babu.jpg",
   },
   {
-      rollno: "228X5A1203",
+      rollno: "L4",
       name: "Bandaru Kesava Ram",
       quote: "A brilliant mind, with a youthful zest,\nIntelligence shines, and humor's at its best.\nKindness and charm, in every stride,\nA captivating soul, gladdens with pride.",
       image: "/images/kesava_ram.jpg",
   },
   {
-      rollno: "228X5A1204",
+      rollno: "L5",
       name: "Nakkala Chaitanya Krishna",
       quote: "Good looks, with a style so rare,\nFashion icon, beyond compare.\nConfidence shines, in every stride,\nA model's charm, glides with pride.",
       image: "/images/chaitanya_krishna.jpg",
   },
   {
-      rollno: "228X5A1205",
+      rollno: "L6",
       name: "Raghukula Mohana Sai Krishna",
       quote: "Stands alone, a quiet soul,\nHis introverted heart, a mystery whole.\nBut when he dresses, style takes the floor,\nA handsome man, with an understated roar",
       image: "/images/mohan_sai_krishna.jpg",
